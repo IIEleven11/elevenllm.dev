@@ -1,0 +1,23 @@
+{
+  "published": true,
+  "title": "React.js CLI",
+  "description": "A CLI React component to interact with Upstash Redis databases.",
+  "date": "2023-02-05T00:00:00.000Z",
+  "url": "https://upstash.com",
+  "repository": "upstash/react-ui",
+  "body": {
+    "raw": "\n\n`@upstash/react-ui` is powering the CLI in your browser on [console.upstash.com](https://console.upstash.com). It allows you to interact with your Upstash Redis database in a simple and intuitive way.\n",
+    "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var j=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var s in e)a(t,s,{get:e[s],enumerable:!0})},i=(t,e,s,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of l(e))!x.call(t,n)&&n!==s&&a(t,n,{get:()=>e[n],enumerable:!(c=d(e,n))||c.enumerable});return t};var b=(t,e,s)=>(s=t!=null?h(m(t)):{},i(e||!t||!t.__esModule?a(s,\"default\",{value:t,enumerable:!0}):s,t)),f=t=>i(a({},\"__esModule\",{value:!0}),t);var p=j((R,r)=>{r.exports=_jsx_runtime});var I={};w(I,{default:()=>C,frontmatter:()=>y});var o=b(p()),y={title:\"React.js CLI\",description:\"A CLI React component to interact with Upstash Redis databases.\",date:\"2023-02-05\",url:\"https://upstash.com\",repository:\"upstash/react-ui\",published:!0};function u(t){let e=Object.assign({p:\"p\",code:\"code\",a:\"a\"},t.components);return(0,o.jsxs)(e.p,{children:[(0,o.jsx)(e.code,{children:\"@upstash/react-ui\"}),\" is powering the CLI in your browser on \",(0,o.jsx)(e.a,{href:\"https://console.upstash.com\",children:\"console.upstash.com\"}),\". It allows you to interact with your Upstash Redis database in a simple and intuitive way.\"]})}function _(t={}){let{wrapper:e}=t.components||{};return e?(0,o.jsx)(e,Object.assign({},t,{children:(0,o.jsx)(u,t)})):u(t)}var C=_;return f(I);})();\n;return Component;"
+  },
+  "_id": "projects/upstash-react-ui.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/upstash-react-ui.mdx",
+    "sourceFileName": "upstash-react-ui.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/upstash-react-ui"
+  },
+  "type": "Project",
+  "path": "/projects/upstash-react-ui",
+  "slug": "upstash-react-ui"
+}

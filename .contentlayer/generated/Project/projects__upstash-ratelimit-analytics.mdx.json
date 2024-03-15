@@ -1,0 +1,22 @@
+{
+  "published": true,
+  "title": "Upstash Ratelimit Analytics",
+  "description": "Near realtime analytics for your ratelimits. Integrated into the @upstash/ratelimit library.",
+  "url": "https://console.upstash.com/ratelimit",
+  "repository": "upstash/ratelimit\"",
+  "body": {
+    "raw": "\nTODO:\n",
+    "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var f=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},a=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of h(e))!x.call(t,r)&&r!==n&&i(t,r,{get:()=>e[r],enumerable:!(o=u(e,r))||o.enumerable});return t};var j=(t,e,n)=>(n=t!=null?p(d(t)):{},a(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),_=t=>a(i({},\"__esModule\",{value:!0}),t);var l=f((C,c)=>{c.exports=_jsx_runtime});var D={};y(D,{default:()=>g,frontmatter:()=>b});var s=j(l()),b={title:\"Upstash Ratelimit Analytics\",description:\"Near realtime analytics for your ratelimits. Integrated into the @upstash/ratelimit library.\",repository:'upstash/ratelimit\"',url:\"https://console.upstash.com/ratelimit\",published:!0};function m(t){let e=Object.assign({p:\"p\"},t.components);return(0,s.jsx)(e.p,{children:\"TODO:\"})}function O(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,Object.assign({},t,{children:(0,s.jsx)(m,t)})):m(t)}var g=O;return _(D);})();\n;return Component;"
+  },
+  "_id": "projects/upstash-ratelimit-analytics.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/upstash-ratelimit-analytics.mdx",
+    "sourceFileName": "upstash-ratelimit-analytics.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/upstash-ratelimit-analytics"
+  },
+  "type": "Project",
+  "path": "/projects/upstash-ratelimit-analytics",
+  "slug": "upstash-ratelimit-analytics"
+}

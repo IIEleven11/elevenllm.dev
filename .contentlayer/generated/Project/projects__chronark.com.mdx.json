@@ -1,0 +1,23 @@
+{
+  "published": true,
+  "title": "elevenllm.dev",
+  "description": "Eleven",
+  "date": "2024-03-10T00:00:00.000Z",
+  "url": "https://elevenllm.dev",
+  "repository": "IIEleven11/elevenllm.dev",
+  "body": {
+    "raw": "",
+    "code": "var Component=(()=>{var c=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var n in t)o(e,n,{get:t[n],enumerable:!0})},a=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let l of v(t))!x.call(e,l)&&l!==n&&o(e,l,{get:()=>t[l],enumerable:!(s=d(t,l))||s.enumerable});return e};var j=(e,t,n)=>(n=e!=null?c(p(e)):{},a(t||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),g=e=>a(o({},\"__esModule\",{value:!0}),e);var m=f((y,i)=>{i.exports=_jsx_runtime});var b={};_(b,{default:()=>M,frontmatter:()=>h});var r=j(m()),h={title:\"elevenllm.dev\",description:\"Eleven\",repository:\"IIEleven11/elevenllm.dev\",url:\"https://elevenllm.dev\",date:new Date(17100288e5),published:!0};function u(e){return(0,r.jsx)(r.Fragment,{})}function D(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,Object.assign({},e,{children:(0,r.jsx)(u,e)})):u(e)}var M=D;return g(b);})();\n;return Component;"
+  },
+  "_id": "projects/chronark.com.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/chronark.com.mdx",
+    "sourceFileName": "chronark.com.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/chronark.com"
+  },
+  "type": "Project",
+  "path": "/projects/chronark.com",
+  "slug": "chronark.com"
+}

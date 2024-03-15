@@ -1,0 +1,21 @@
+{
+  "title": "Upstash Auth Analytics",
+  "description": "A library to record and analyse Auth.js user behaviour",
+  "url": "https://console.upstash.com/ratelimit",
+  "repository": "upstash/auth-analytics",
+  "body": {
+    "raw": "\nTODO:\n",
+    "code": "var Component=(()=>{var l=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var j=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),y=(t,n)=>{for(var e in n)o(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of m(n))!x.call(t,s)&&s!==e&&o(t,s,{get:()=>n[s],enumerable:!(a=h(n,s))||a.enumerable});return t};var f=(t,n,e)=>(e=t!=null?l(d(t)):{},c(n||!t||!t.__esModule?o(e,\"default\",{value:t,enumerable:!0}):e,t)),_=t=>c(o({},\"__esModule\",{value:!0}),t);var u=j((g,i)=>{i.exports=_jsx_runtime});var D={};y(D,{default:()=>O,frontmatter:()=>b});var r=f(u()),b={title:\"Upstash Auth Analytics\",description:\"A library to record and analyse Auth.js user behaviour\",url:\"https://console.upstash.com/ratelimit\",repository:\"upstash/auth-analytics\"};function p(t){let n=Object.assign({p:\"p\"},t.components);return(0,r.jsx)(n.p,{children:\"TODO:\"})}function A(t={}){let{wrapper:n}=t.components||{};return n?(0,r.jsx)(n,Object.assign({},t,{children:(0,r.jsx)(p,t)})):p(t)}var O=A;return _(D);})();\n;return Component;"
+  },
+  "_id": "projects/upstash-auth-analytics.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/upstash-auth-analytics.mdx",
+    "sourceFileName": "upstash-auth-analytics.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/upstash-auth-analytics"
+  },
+  "type": "Project",
+  "path": "/projects/upstash-auth-analytics",
+  "slug": "upstash-auth-analytics"
+}

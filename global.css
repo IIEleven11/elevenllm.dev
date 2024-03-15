@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .text-edge-outline {
+    -webkit-text-stroke: 1px rgba(255,255,255,0.3);
+  }
+} 
+
+@font-face {
+  font-family: 'LuloClean';
+  src: url('./public/fonts/LuloCleanOutline-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'codebold';
+  src: url('./public/fonts/codebold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'codelight';
+  src: url('./public/fonts/codelight.otf') format('opentype');
+  font-style: normal;
+}
+
+
+.input-transparent-black {
+  background-color: rgba(0, 0, 0, 0.5) !important; /* Adjust the opacity as needed */
+  color: #cbd5e1 !important;
+}
+
+:root {
+  --font-luloClean: 'LuloClean', sans-serif;
+  --font-codelight: 'codelight', sans-serif;
+  --font-codebold: 'codebold', sans-serif;
+}
+
+
+.animate-fade-in {
+  transform: translateZ(0);
+}

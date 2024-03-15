@@ -1,0 +1,23 @@
+{
+  "published": true,
+  "title": "highstorm.app",
+  "description": "Simple, fast, open source custom event tracking",
+  "date": "2023-05-01T00:00:00.000Z",
+  "url": "https://highstorm.app",
+  "repository": "chronark/highstorm",
+  "body": {
+    "raw": "\n\n [![](https://highstorm.app/og.png)](https://highstorm.app) \n\nReduce the noise in your Slack workspace by consolidating all your event data into one place, filtering alerts by relevance, and customizing your alert settings to suit your needs.\n\n###### Consolidate Events\nGet all your event data in one place to reduce alert noise\n\n###### Stay Focused\nKeep your Slack workspace focused on what's important\n\n###### Customizable Settings\nCustomize your alert settings to suit your unique needs\n\n###### Clear Overview\nGet a clear overview of all your alerts in one place",
+    "code": "var Component=(()=>{var d=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var b=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),f=(a,e)=>{for(var t in e)s(a,t,{get:e[t],enumerable:!0})},r=(a,e,t,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!g.call(a,i)&&i!==t&&s(a,i,{get:()=>e[i],enumerable:!(o=p(e,i))||o.enumerable});return a};var y=(a,e,t)=>(t=a!=null?d(m(a)):{},r(e||!a||!a.__esModule?s(t,\"default\",{value:a,enumerable:!0}):t,a)),v=a=>r(s({},\"__esModule\",{value:!0}),a);var l=b((_,c)=>{c.exports=_jsx_runtime});var N={};f(N,{default:()=>w,frontmatter:()=>k});var n=y(l()),k={title:\"highstorm.app\",description:\"Simple, fast, open source custom event tracking\",date:\"2023-05-01\",url:\"https://highstorm.app\",published:!0,repository:\"chronark/highstorm\"};function h(a){let e=Object.assign({p:\"p\",a:\"a\",img:\"img\",h6:\"h6\",span:\"span\"},a.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.a,{href:\"https://highstorm.app\",children:(0,n.jsx)(e.img,{src:\"https://highstorm.app/og.png\",alt:\"\"})})}),`\n`,(0,n.jsx)(e.p,{children:\"Reduce the noise in your Slack workspace by consolidating all your event data into one place, filtering alerts by relevance, and customizing your alert settings to suit your needs.\"}),`\n`,(0,n.jsxs)(e.h6,{id:\"consolidate-events\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#consolidate-events\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Consolidate Events\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Get all your event data in one place to reduce alert noise\"}),`\n`,(0,n.jsxs)(e.h6,{id:\"stay-focused\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#stay-focused\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Stay Focused\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Keep your Slack workspace focused on what's important\"}),`\n`,(0,n.jsxs)(e.h6,{id:\"customizable-settings\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#customizable-settings\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Customizable Settings\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Customize your alert settings to suit your unique needs\"}),`\n`,(0,n.jsxs)(e.h6,{id:\"clear-overview\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#clear-overview\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Clear Overview\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Get a clear overview of all your alerts in one place\"})]})}function x(a={}){let{wrapper:e}=a.components||{};return e?(0,n.jsx)(e,Object.assign({},a,{children:(0,n.jsx)(h,a)})):h(a)}var w=x;return v(N);})();\n;return Component;"
+  },
+  "_id": "projects/highstorm.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/highstorm.mdx",
+    "sourceFileName": "highstorm.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/highstorm"
+  },
+  "type": "Project",
+  "path": "/projects/highstorm",
+  "slug": "highstorm"
+}

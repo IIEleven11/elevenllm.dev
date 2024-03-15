@@ -1,0 +1,22 @@
+{
+  "published": true,
+  "title": "planetfall.io",
+  "description": "I'm building a SAAS providing global latency monitoring for your APIs and websites from edge locations around the world. Have you ever wondered how fast your API is in any part of the world? Planetfall allows you to find out and monitor it continuously.",
+  "date": "2023-04-01T00:00:00.000Z",
+  "url": "https://planetfall.io",
+  "body": {
+    "raw": "\n\n[![](/planetfall.png)](https://planetfall.io)\n\nPlanetfall is a SaaS platform that provides global latency monitoring and synthetic monitoring for APIs. With over 60 regions to monitor from, customers can gain insights into the true performance of their API by checking latency from around the world. \nPlanetfall offers custom timeouts, threshold notifications, and real-time alerts for potential performance issues. Additionally, customers can create custom status pages to share with their customers, which can display availability and latency for every region. Planetfall offers a free tier that includes 100k checks per month and scales as customers grow. Overall, Planetfall helps customers stay in control of their API's performance, improve communication with their customers, and build trust.\n\n",
+    "code": "var Component=(()=>{var f=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var o in t)r(e,o,{get:t[o],enumerable:!0})},s=(e,t,o,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of d(t))!p.call(e,a)&&a!==o&&r(e,a,{get:()=>t[a],enumerable:!(i=u(t,a))||i.enumerable});return e};var w=(e,t,o)=>(o=e!=null?f(h(e)):{},s(t||!e||!e.__esModule?r(o,\"default\",{value:e,enumerable:!0}):o,e)),b=e=>s(r({},\"__esModule\",{value:!0}),e);var c=g((_,l)=>{l.exports=_jsx_runtime});var A={};y(A,{default:()=>x,frontmatter:()=>P});var n=w(c()),P={title:\"planetfall.io\",description:\"I'm building a SAAS providing global latency monitoring for your APIs and websites from edge locations around the world. Have you ever wondered how fast your API is in any part of the world? Planetfall allows you to find out and monitor it continuously.\",date:\"2023-04-01\",url:\"https://planetfall.io\",published:!0};function m(e){let t=Object.assign({p:\"p\",a:\"a\",img:\"img\"},e.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:(0,n.jsx)(t.a,{href:\"https://planetfall.io\",children:(0,n.jsx)(t.img,{src:\"/planetfall.png\",alt:\"\"})})}),`\n`,(0,n.jsx)(t.p,{children:`Planetfall is a SaaS platform that provides global latency monitoring and synthetic monitoring for APIs. With over 60 regions to monitor from, customers can gain insights into the true performance of their API by checking latency from around the world.\nPlanetfall offers custom timeouts, threshold notifications, and real-time alerts for potential performance issues. Additionally, customers can create custom status pages to share with their customers, which can display availability and latency for every region. Planetfall offers a free tier that includes 100k checks per month and scales as customers grow. Overall, Planetfall helps customers stay in control of their API's performance, improve communication with their customers, and build trust.`})]})}function v(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,Object.assign({},e,{children:(0,n.jsx)(m,e)})):m(e)}var x=v;return b(A);})();\n;return Component;"
+  },
+  "_id": "projects/planetfall.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/planetfall.mdx",
+    "sourceFileName": "planetfall.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/planetfall"
+  },
+  "type": "Project",
+  "path": "/projects/planetfall",
+  "slug": "planetfall"
+}

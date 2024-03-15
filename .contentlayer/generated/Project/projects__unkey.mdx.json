@@ -1,0 +1,23 @@
+{
+  "published": true,
+  "title": "unkey.dev",
+  "description": "Unkey is an open source API Key management solution. It allows you to create, manage and validate API Keys for your users. It’s built with security and speed in mind.",
+  "date": "2023-07-01T00:00:00.000Z",
+  "url": "https://unkey.dev",
+  "repository": "chronark/unkey",
+  "body": {
+    "raw": "\n\n[![](https://unkey.dev/images/landing/app.png)](https://unkey.dev)\n\nUnkey is an open source API Key management solution. It allows you to create, manage and validate API Keys for your users. It’s built with security and speed in mind.\n",
+    "code": "var Component=(()=>{var l=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var h=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),x=(n,e)=>{for(var s in e)r(n,s,{get:e[s],enumerable:!0})},i=(n,e,s,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of p(e))!g.call(n,a)&&a!==s&&r(n,a,{get:()=>e[a],enumerable:!(o=m(e,a))||o.enumerable});return n};var f=(n,e,s)=>(s=n!=null?l(y(n)):{},i(e||!n||!n.__esModule?r(s,\"default\",{value:n,enumerable:!0}):s,n)),k=n=>i(r({},\"__esModule\",{value:!0}),n);var c=h((w,u)=>{u.exports=_jsx_runtime});var v={};x(v,{default:()=>_,frontmatter:()=>I});var t=f(c()),I={title:\"unkey.dev\",description:\"Unkey is an open source API Key management solution. It allows you to create, manage and validate API Keys for your users. It\\u2019s built with security and speed in mind.\",date:\"2023-07-01\",url:\"https://unkey.dev\",published:!0,repository:\"chronark/unkey\"};function d(n){let e=Object.assign({p:\"p\",a:\"a\",img:\"img\"},n.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:(0,t.jsx)(e.a,{href:\"https://unkey.dev\",children:(0,t.jsx)(e.img,{src:\"https://unkey.dev/images/landing/app.png\",alt:\"\"})})}),`\n`,(0,t.jsx)(e.p,{children:\"Unkey is an open source API Key management solution. It allows you to create, manage and validate API Keys for your users. It\\u2019s built with security and speed in mind.\"})]})}function j(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,Object.assign({},n,{children:(0,t.jsx)(d,n)})):d(n)}var _=j;return k(v);})();\n;return Component;"
+  },
+  "_id": "projects/unkey.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/unkey.mdx",
+    "sourceFileName": "unkey.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/unkey"
+  },
+  "type": "Project",
+  "path": "/projects/unkey",
+  "slug": "unkey"
+}

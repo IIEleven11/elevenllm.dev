@@ -1,0 +1,20 @@
+{
+  "published": true,
+  "title": "Upstash Web Analytics",
+  "description": "A library to record and analyse web page traffic and user behaviour",
+  "body": {
+    "raw": "\nComing soon\n",
+    "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),h=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},c=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of m(n))!f.call(t,o)&&o!==e&&r(t,o,{get:()=>n[o],enumerable:!(a=l(n,o))||a.enumerable});return t};var j=(t,n,e)=>(e=t!=null?d(b(t)):{},c(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),_=t=>c(r({},\"__esModule\",{value:!0}),t);var u=x((A,i)=>{i.exports=_jsx_runtime});var M={};h(M,{default:()=>C,frontmatter:()=>g});var s=j(u()),g={title:\"Upstash Web Analytics\",description:\"A library to record and analyse web page traffic and user behaviour\",published:!0};function p(t){let n=Object.assign({p:\"p\"},t.components);return(0,s.jsx)(n.p,{children:\"Coming soon\"})}function y(t={}){let{wrapper:n}=t.components||{};return n?(0,s.jsx)(n,Object.assign({},t,{children:(0,s.jsx)(p,t)})):p(t)}var C=y;return _(M);})();\n;return Component;"
+  },
+  "_id": "projects/upstash-web-analytics.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/upstash-web-analytics.mdx",
+    "sourceFileName": "upstash-web-analytics.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/upstash-web-analytics"
+  },
+  "type": "Project",
+  "path": "/projects/upstash-web-analytics",
+  "slug": "upstash-web-analytics"
+}
